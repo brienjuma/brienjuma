@@ -1,4 +1,6 @@
-## Hi there 👋
+Hi, I'm Juma! I'm a passionate software developer with a deep interest and expertise in rich web interfaces and services in .NET.
+
+Let's connect 🙂
 
 <!--
 **brienjuma/brienjuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
