@@ -1,4 +1,5 @@
-Hi, I'm Juma! I'm a passionate software developer with a deep interest and expertise in rich web interfaces and services in .NET.
+Adventurous C# Hobbyist 😉
+<img src="https://komarev.com/ghpvc/?username=brienjuma&&style=flat-square" align="center" />
 
 Let's connect 🙂
 
