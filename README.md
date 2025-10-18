@@ -1,10 +1,12 @@
 <img src="https://komarev.com/ghpvc/?username=brienjuma&&style=flat-square" align="center" />
 
-I enjoy solving problems using code!I am passionate about building web applications, including web services, web resources, and web APIs.
+My name is Juma, I enjoy solving problems using **code!**
 
+<!-- 
 - **Expertise**: .NET(C#), Full-Stack Development, Relational Databases
 - **Education**: BS Software Development (Distinction) - KCAU University
 - **Currently**: Contributing to ASP.NET Core / Blazor
+-->
 
 ## 🏢 Current Role
 **Software Engineer @  [SunPro Systems Limited](https://sunpro.africa/)** *(April 2024 - Present)* 
