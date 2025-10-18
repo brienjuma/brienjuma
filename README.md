@@ -1,6 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=brienjuma&&style=flat-square" align="center" />
 
-I am a **Software Engineer** passionate about building web applications, including web services, web resources, and web APIs.
+I enjoy solving problems using code!I am passionate about building web applications, including web services, web resources, and web APIs.
 
 - **Expertise**: .NET(C#), Full-Stack Development, Relational Databases
 - **Education**: BS Software Development (Distinction) - KCAU University
@@ -13,7 +13,7 @@ I am a **Software Engineer** passionate about building web applications, includi
 - Drove **4.5k+ monthly downloads** through automated documentation
 - Piloting secure enclaves with **Anthropic** & **UK AI Security Institute** -->
 
-### 🚀 Key Achievements
+<!-- ### 🚀 Key Achievements
 - **70% reduction** in bugs via C# dependency tracking
 - **20% reduction** in auth support tickets through Okta migration  
 - **3x platform growth** using PyTorch dynamic pricing models
