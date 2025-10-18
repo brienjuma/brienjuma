@@ -1,6 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=brienjuma&&style=flat-square" align="center" />
 
-My name is Juma, I enjoy solving problems using **code!**
+I enjoy solving problems using **code!**
 
 <!-- 
 - **Expertise**: .NET(C#), Full-Stack Development, Relational Databases
