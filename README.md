@@ -8,8 +8,10 @@ I enjoy solving problems using **code!**
 - **Currently**: Contributing to ASP.NET Core / Blazor
 -->
 
+<!-- 
 ## 🏢 Current Role
 **Software Engineer @  [SunPro Systems Limited](https://sunpro.africa/)** *(April 2024 - Present)* 
+-->
 <!--- Enhanced security by refactoring .NET encryption algorithms for Syft toolkit
 - Developed Python SDK for LLM integration, reducing deployment costs
 - Drove **4.5k+ monthly downloads** through automated documentation
