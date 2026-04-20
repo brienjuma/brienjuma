@@ -1,6 +1,10 @@
 <img src="https://komarev.com/ghpvc/?username=brienjuma&&style=flat-square" align="center" />
 
-I enjoy solving problems using **code!**
+Hello! My name is Brian Juma, I work for [SunPro Africa](https://sunpro.africa/) digitizing Human Resources processes and workflows largely with .NET. 
+
+<!--I'm also the teamlead for [start.spring.io](https://start.spring.io/) and the [Spring Initializr library](https://github.com/spring-io/initializr) which powers it.-->
+
+<!--[Here's my website](https://mhalbritter.github.io/) with contact details and more info about me.-->
 
 <!-- 
 - **Expertise**: .NET(C#), Full-Stack Development, Relational Databases
