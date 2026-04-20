@@ -1,6 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=brienjuma&&style=flat-square" align="center" />
 
-Hello! My name is Brian Juma, I work for [SunPro Africa](https://sunpro.africa/) digitizing Human Resources processes and workflows largely with .NET. 
+Hello! My name is Brian Juma; I work for [SunPro Africa](https://sunpro.africa/), digitizing Human Resources processes and workflows largely with .NET and web technologies. 
 
 <!--I'm also the teamlead for [start.spring.io](https://start.spring.io/) and the [Spring Initializr library](https://github.com/spring-io/initializr) which powers it.-->
 
