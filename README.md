@@ -1,7 +1,6 @@
+Hi there, I'm Juma 👋
+<br/>
 <img src="https://komarev.com/ghpvc/?username=brienjuma&&style=flat-square" align="center" />
-
-Hello! My name is Brian Juma;
-
 <!--I'm also the teamlead for [start.spring.io](https://start.spring.io/) and the [Spring Initializr library](https://github.com/spring-io/initializr) which powers it.-->
 
 <!--[Here's my website](https://mhalbritter.github.io/) with contact details and more info about me.-->
